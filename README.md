@@ -36,7 +36,7 @@ This project will set the foundation for more informed decisions, empowering the
 **Objective:**
 - Create detailed Profit and Loss (P&L) reports categorized by [fiscal year](https://github.com/aayushinidhi/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf) and [months](https://github.com/aayushinidhi/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Months.pdf).
 - Produce segmented P&L reports by [different markets]( https://github.com/aayushinidhi/Excel-Sales-Analytics/blob/main/P%20%26%20%20L%20For%20Markets.pdf.)
-- Performed Quarterly Gross Margin Analysis by [Subzone]  
+- Performed Quarterly Gross Margin Analysis by [Subzone](https://github.com/aayushinidhi/Excel-Sales-Analytics/blob/main/GM%25%20By%20Quarters(subzone).pdf)  
 
 **Key Achievements:**
 - Evaluated financial performance and provided insights for strategic decision-making.
