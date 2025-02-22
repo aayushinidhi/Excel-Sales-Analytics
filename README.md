@@ -24,7 +24,7 @@ This project will set the foundation for more informed decisions, empowering the
 
 ### 📘 Project 1: Sales Analysis and Reporting
 **Objective:**
-- Develop a comprehensive customer performance report.
+- Develop a comprehensive [customer performance report.](https://github.com/aayushinidhi/Excel-Sales-Analytics/blob/main/Customer%20Performane%20Report%20.pdf)
 - Conduct an in-depth comparison of market performance against sales targets.
 
 **Key Achievements:**
