@@ -81,6 +81,9 @@ This project will set the foundation for more informed decisions, empowering the
 ## Conclusion
 This project provides AtliQ Hardwares with a comprehensive strategy for optimizing sales, enhancing financial performance, and improving decision-making through the power of data analytics. By implementing these insights, the company will be better equipped to navigate the competitive global market and strengthen its position in the industry.
 
+
+[Click here to view the Word document]([https://github.com/yourusername/yourrepo/blob/main/yourdocument.docx](https://github.com/aayushinidhi/Excel-Sales-Analytics/blob/main/Sales%20and%20Finance%20Analytics%20of%20AtliQ%20Hardwares%20Readme%20file.docx)
+
 ---
 
 *For more information or questions, feel free to contact the project team or refer to the documentation provided within the repository.*
