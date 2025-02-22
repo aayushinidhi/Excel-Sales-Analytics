@@ -34,7 +34,7 @@ This project will set the foundation for more informed decisions, empowering the
 
 ### 📘 Project 2: Financial Analysis and Reporting
 **Objective:**
-- Create detailed Profit and Loss (P&L) reports categorized by [fiscal year](https://github.com/aayushinidhi/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf)and months.
+- Create detailed Profit and Loss (P&L) reports categorized by [fiscal year](https://github.com/aayushinidhi/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Year.pdf) and [months](https://github.com/aayushinidhi/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Months.pdf).
 - Produce segmented P&L reports by different markets.
 
 **Key Achievements:**
